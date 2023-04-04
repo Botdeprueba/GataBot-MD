@@ -2797,4 +2797,17 @@ global.rico = [
   "https://i.imgur.com/mrPHiNg.jpeg",
   "https://i.imgur.com/tRqrOZE.jpeg",
   "https://i.imgur.com/HhT6Sbh.jpeg",
-  "https://i.imgur.com/ImE8wPK.jpg"]
+  "https://i.imgur.com/ImE8wPK.jpg",
+  "https://i.imgur.com/fZNzhih.jpeg",
+  "https://i.imgur.com/Gp9BTfx.jpeg",
+  "https://i.imgur.com/MqUxF7L.jpeg",
+  "https://i.imgur.com/RQuIG03.jpeg",
+  "https://i.imgur.com/RwwVHl1.jpeg",
+  "https://i.imgur.com/UQAH5Eh.jpeg",
+  "https://i.imgur.com/OcaFnxz.jpeg",
+  "https://i.imgur.com/JMsGvPM.jpeg",
+  "https://i.imgur.com/57dU1Jg.jpeg",
+  "https://i.imgur.com/P30sSoe.jpeg",
+  "https://i.imgur.com/2VkrySM.jpeg",
+  "https://i.imgur.com/GwoYgnO.jpeg",
+  "https://i.imgur.com/dHRyAkV.jpeg"]
