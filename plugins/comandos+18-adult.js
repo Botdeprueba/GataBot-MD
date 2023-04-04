@@ -197,8 +197,8 @@ let list = global.packgirl
 let link = list[Math.floor(Math.random() * list.length)]
 await conn.sendButton(m.chat, lenguajeGB.smsCont18Porn(), `*_${lenguajeGB['smsBotonM7']()}_* » ${user.premiumTime > 0 ? '✅' : '❌'}\n` + wm + ` : *${command[0].toUpperCase() + command.substring(1)}*`, link, [[lenguajeGB.smsSig(), `${usedPrefix + command}`], [lenguajeGB.lenguaje() == 'es' ? '🔞 ver lista porno 🔞'.toUpperCase() : '🔞 list horny🔞 '.toUpperCase(), lenguajeGB.lenguaje() == 'es' ? usedPrefix + 'listaporno' : usedPrefix + 'listhorny']], m, frep)}
 
-if (command == 'pornopackchico' || command == 'nsfwpackmen') { 
-let list = global.packmen 
+if (command == 'rico' || command == 'nsfwpackmen') { 
+let list = global.rico
 let link = list[Math.floor(Math.random() * list.length)]
 await conn.sendButton(m.chat, lenguajeGB.smsCont18Porn(), `*_${lenguajeGB['smsBotonM7']()}_* » ${user.premiumTime > 0 ? '✅' : '❌'}\n` + wm + ` : *${command[0].toUpperCase() + command.substring(1)}*`, link, [[lenguajeGB.smsSig(), `${usedPrefix + command}`], [lenguajeGB.lenguaje() == 'es' ? '🔞 ver lista porno 🔞'.toUpperCase() : '🔞 list horny🔞 '.toUpperCase(), lenguajeGB.lenguaje() == 'es' ? usedPrefix + 'listaporno' : usedPrefix + 'listhorny']], m, frep)}
   
@@ -209,7 +209,7 @@ console.log(e)}
 }  
 handler.command = ['pornololi', 'nsfwloli', 'pornopies', 'nsfwfoot', 'pornoass', 'nsfwass', 'pornobdsm', 'nsfwbdsm', 'pornocum', 'nsfwcum', 'pornoero', 'nsfwero', 'pornodominar', 'nsfwfemdom', 'pornoglass', 'nsfwglass', 'pornohentai', 'nsfwhentai', 'pornorgia', 'nsfworgy', 'pornotetas', 'nsfwboobs', 'pornobooty', 'nsfwbooty', 'pornoecchi', 'nsfwecchi', 'pornofurro', 'nsfwfurry', 'pornotrapito', 'nsfwtrap', 'pornolesbiana', 'nsfwlesbian', 'pornobragas', 'nsfwpanties', 'pornopene', 'nsfwpenis', 'porno', 'porn', 'pornorandom', 'pornrandom', 'pornopechos', 'nsfwbreasts', 'pornoyaoi', 'nsfwyaoi', 'pornoyaoi2', 'nsfwyaoi2', 'pornoyuri', 'nsfwyuri',
 'pornoyuri2', 'nsfwyuri2', 'pornodarling', 'nsfwdarling', 'pornodragonmaid', 'nsfwdragonmaid', 'pornokonosuba', 'nsfwkonosuba', 'pornopokemon', 'nsfwpokemon',
-'pornotoloveru', 'nsfwtoloveru', 'pornouzaki', 'nsfwuzaki', 'pornopack', 'nsfwpack', 'pornopackchica', 'nsfwpackgirl', 'pornopackchico', 'nsfwpackmen']
+'pornotoloveru', 'nsfwtoloveru', 'pornouzaki', 'nsfwuzaki', 'pornopack', 'nsfwpack', 'pornopackchica', 'nsfwpackgirl', 'rico', 'nsfwpackmen']
 handler.level = 5
 handler.limit = 1
 export default  handler
@@ -2778,23 +2778,23 @@ global.packgirl = [
   "https://i.imgur.com/6CeG9ZX.jpg"]
 
 
-global.packmen = [
-  "https://i.imgur.com/TK0qLAu.jpg",
-  "https://i.imgur.com/q8lKT40.jpg",
-  "https://i.imgur.com/OwWdL9u.jpg",
-  "https://i.imgur.com/Er7WiQo.jpg",
-  "https://i.imgur.com/u4y0q4P.jpg",
-  "https://i.imgur.com/y8y4PPr.jpg",
-  "https://i.imgur.com/qgfLlRY.jpg",
-  "https://i.imgur.com/irgyUTD.jpg",
-  "https://i.imgur.com/uXrqfBl.jpg",
-  "https://i.imgur.com/lgXjetf.jpg",
-  "https://i.imgur.com/81QLh8s.jpg",
-  "https://i.imgur.com/R3AlYe1.jpg",
-  "https://i.imgur.com/a2Myr3F.jpg",
-  "https://i.imgur.com/Wp9cgGw.jpg",
-  "https://i.imgur.com/ggKUnxt.jpg",
-  "https://i.imgur.com/eCJNWBl.jpg",
-  "https://i.imgur.com/6lcrBQB.jpg",
-  "https://i.imgur.com/eSSbXJ1.jpg",
-  "https://i.imgur.com/tNyvzyO.jpg"]
+global.rico = [
+  "https://i.imgur.com/OfNCcpz.jpg",
+  "https://i.imgur.com/ozOtkyc.jpeg",
+  "https://i.imgur.com/vNa8M1o.jpeg",
+  "https://i.imgur.com/RhN6qHp.jpeg",
+  "https://i.imgur.com/be1dd3Q.jpeg",
+  "https://i.imgur.com/Wqx5CFe.jpeg",
+  "https://i.imgur.com/TawVqBk.jpeg",
+  "https://i.imgur.com/utiqHSJ.jpeg",
+  "https://i.imgur.com/BRhcXXo.jpeg",
+  "https://i.imgur.com/wmh3h94.jpg",
+  "https://i.imgur.com/8NuRWC3.jpeg",
+  "https://i.imgur.com/cRuGo7l.jpeg",
+  "https://i.imgur.com/TR8NYlY.jpg",
+  "https://i.imgur.com/oNO9649.jpeg",
+  "https://i.imgur.com/l5t3CwC.jpeg",
+  "https://i.imgur.com/mrPHiNg.jpeg",
+  "https://i.imgur.com/tRqrOZE.jpeg",
+  "https://i.imgur.com/HhT6Sbh.jpeg",
+  "https://i.imgur.com/ImE8wPK.jpg"]
